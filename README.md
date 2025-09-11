@@ -1,9 +1,5 @@
 # 🛍️ Shoe Store - E-Commerce Website
 
-##  Deployment Link
-
-https://shop-blend-aihe.vercel.app/
-
 ## 📌 Project Overview
 This is a modern e-commerce website for premium footwear, featuring:
 - Dynamic product listing
