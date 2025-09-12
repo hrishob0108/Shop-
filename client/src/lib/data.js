@@ -131,10 +131,11 @@ export const products = [
     }
 ];
 
+// ✅ Categories now include image thumbnails
 export const categories = [
-    { id: "all", name: "All Products" },
-    { id: "running", name: "Running" },
-    { id: "lifestyle", name: "Lifestyle" },
-    { id: "basketball", name: "Basketball" },
-    { id: "training", name: "Training" },
+    { id: "all", name: "All Products", image: shoes[0].image1 },
+    { id: "running", name: "Running", image: shoes[3].image4 },
+    { id: "lifestyle", name: "Lifestyle", image: shoes[12].image13 },
+    { id: "basketball", name: "Basketball", image: shoes[6].image7 },
+    { id: "training", name: "Training", image: shoes[9].image10 },
 ];
