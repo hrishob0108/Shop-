@@ -48,7 +48,7 @@ const Home = () => {
               transition={{ duration: 0.5 }}
               className="text-4xl font-extrabold tracking-tight text-white drop-shadow-lg"
             >
-              SHOPBLEND
+              SHOPWEAR
             </motion.div>
           </motion.div>
         )}
